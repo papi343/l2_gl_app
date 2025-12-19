@@ -1,0 +1,16 @@
+{
+    "name": "yaya/task-collab",
+    "description": "Gestion de taches collaboratif - projet pedagogique L2-GL",
+     "type": "projet",
+     "require": {
+        "php": ">=8.0"
+     },
+     "require-dev": {
+        "phpunit/phpunit": "^10.0"
+     },
+     "autoload": {
+        "prs-4": {
+            "App\\": "src/"
+        }
+     }
+}
