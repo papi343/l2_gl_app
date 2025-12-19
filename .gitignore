@@ -1,0 +1,12 @@
+#Dependances
+/vendor/
+composer.lock
+
+# uploads
+/public/uploads/*
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
